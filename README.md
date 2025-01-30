@@ -108,13 +108,10 @@ Point Cloud File with Harati Ma construction:
 https://drive.google.com/file/d/1XvKuqbozqkTSk6p1O--paWz1iU1gigts/view?usp=sharing
 
 GraphDECO INRIA Gaussian Splatting Repository:
-https://github.com/graphdeco-inria/
-gaussian-splatting
+https://github.com/graphdeco-inria/gaussian-splatting
 
 SuperSplat: Online Viewer for Point Clouds: 
 https://playcanvas.com/supersplat/editor/
 
 Video of Harati Ma, courtesy of Benjamin Edwards:
-https://drive.google.com/file/
-d/1VKHqLzXPenFwTE7PXbr0J52EYnTYdR5T/
-view?usp=sharing
+https://drive.google.com/file/d/1VKHqLzXPenFwTE7PXbr0J52EYnTYdR5T/view?usp=sharing
